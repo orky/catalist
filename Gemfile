@@ -30,6 +30,8 @@ gem 'bootstrap-sass'
 
 gem 'devise'
 
+gem 'nested_scaffold'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
